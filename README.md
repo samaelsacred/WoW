@@ -1,8 +1,3 @@
-![cy1-443b39d403085dfff1749a693cd5b2d6_850x350](https://cloud.githubusercontent.com/assets/812439/19622340/7e0279ac-98b0-11e6-9bfb-ecd4f2a778f3.jpg)
-
-
-
-# ![1_cooltext1537712788](https://cloud.githubusercontent.com/assets/812439/19455510/e585b88a-94c5-11e6-9cbf-f5d8616dea7d.gif)
 
 # WoWSource Core
 
